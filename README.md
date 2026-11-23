@@ -12,7 +12,7 @@ SQL practice queries completed as part of a data analysis course.
 ## Files
 | File | Description |
 |---|---|
-| sql_practice_queries.sql](./01_sql_practice_queries.sql) | 10 queries on a DVD rental database and a movies table |
+| sql_practice_queries.sql] | 10 queries on a DVD rental database and a movies table |
 
 ## Tools
 SQL (PostgreSQL syntax)
