@@ -15,7 +15,7 @@ SQL practice queries completed as part of a data analysis course.
 | sql_practice_queries.sql] | 10 queries on a DVD rental database and a movies table |
 
 ## Tools
-SQL (PostgreSQL syntax)
+PostgreSQL, DBeaver
 
 ## Data
 The queries run on sample databases provided for a course exercise. The
